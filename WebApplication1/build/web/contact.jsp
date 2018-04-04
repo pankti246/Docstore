@@ -122,7 +122,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="w3-agileits_mail_grid_left2">
 						<h3>Mail Us</h3>
-						<a href="mailto:info@example.com">harshshah3695@gmail.com</a>
+						<a href="mailto:info@example.com">panktipatel246@gmail.com</a>
 					</div>
 					<div class="clearfix"> </div>
 				</div>

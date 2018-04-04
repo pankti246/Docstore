@@ -145,7 +145,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="w3layouts_mail_grid_left2">
 						<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
 						<h3>Mail Us</h3>
-						<a href="mailto:info@example.com">harshshah3695@gmail.com</a>
+						<a href="mailto:info@example.com">panktipatel246@gmail.com</a>
 					</div>
 				</div>
 				<div class="col-md-3 w3layouts_mail_grid_left">
